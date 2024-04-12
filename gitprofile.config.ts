@@ -108,17 +108,17 @@ const CONFIG = {
   educations: [
     {
       institution: 'John Jay College (CUNY) | New York, New York ',
-      degree: 'Bachelors of Science in Computer Science & Information Security',
+      degree: 'Bachelors of Science in Computer Science & Information Security      GPA:3.7',
       from: '2023',
       to: '2024',
-      GPA:'3.7 GPA',
+  
     },
     {
       institution: 'Suffolk Community College',
-      degree: 'Associate of Liberal Arts Degree',
+      degree: 'Associate of Arts in Liberal Arts      GPA: 3.4',
       from: '2017',
       to: '2019',
-      GPA:'3.4 GPA',
+
     },
   ],
   publications: [
@@ -156,7 +156,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'synthwave',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -171,39 +171,9 @@ const CONFIG = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-      'light',
-      'dark',
-      'cupcake',
-      'bumblebee',
-      'emerald',
-      'corporate',
+    
       'synthwave',
-      'retro',
-      'cyberpunk',
-      'valentine',
-      'halloween',
-      'garden',
-      'forest',
-      'aqua',
-      'lofi',
-      'pastel',
-      'fantasy',
-      'wireframe',
-      'black',
-      'luxury',
-      'dracula',
-      'cmyk',
-      'autumn',
-      'business',
-      'acid',
-      'lemonade',
-      'night',
-      'coffee',
-      'winter',
-      'dim',
-      'nord',
-      'sunset',
-      'procyon',
+ 
     ],
 
     // Custom theme, applied to `procyon` theme
