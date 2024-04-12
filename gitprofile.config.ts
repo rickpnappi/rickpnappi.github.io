@@ -17,7 +17,7 @@ const CONFIG = {
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 8, // How many projects to display.
+        limit: 4, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
@@ -99,10 +99,10 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'SQL for Data Science',
+      body: 'University of California, Davis',
+      year: 'April 2024',
+      link: 'https://www.coursera.org/learn/sql-for-data-science',
     },
   ],
   educations: [
@@ -111,12 +111,14 @@ const CONFIG = {
       degree: 'Bachelors of Science in Computer Science & Information Security',
       from: '2023',
       to: '2024',
+      GPA:'3.7 GPA',
     },
     {
       institution: 'Suffolk Community College',
       degree: 'Associate of Liberal Arts Degree',
       from: '2017',
       to: '2019',
+      GPA:'3.4 GPA',
     },
   ],
   publications: [
