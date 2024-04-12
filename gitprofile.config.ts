@@ -108,14 +108,14 @@ const CONFIG = {
   educations: [
     {
       institution: 'John Jay College (CUNY) | New York, New York ',
-      degree: 'Bachelors of Science in Computer Science & Information Security      GPA:3.7',
+      degree: 'Bachelors of Science in Computer Science & Information Security      3.7 GPA',
       from: '2023',
       to: '2024',
   
     },
     {
       institution: 'Suffolk Community College',
-      degree: 'Associate of Arts in Liberal Arts      GPA: 3.4',
+      degree: 'Associate of Arts in Liberal Arts      3.4 GPA',
       from: '2017',
       to: '2019',
 
